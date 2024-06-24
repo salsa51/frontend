@@ -80,7 +80,7 @@ export const DetailProductBahan = () => {
                                         </div>
                                     </div>
                                     <div className="inline-flex items-start gap-4 relative flex-[0_0_auto]">
-                                        <div className="inline-flex flex-col items-start gap-2.5 px-2.5 py-3 relative flex-[0_0_auto] bg-[#aeaeae]">
+                                        <div className="inline-flex flex-col items-start gap-2.5 px-2.5 py-3 relative flex-[0_0_auto] ">
                                             <div className="inline-flex items-center gap-3 relative flex-[0_0_auto]">
                                                 <IoList className="!relative !w-6 !h-6" />
                                                 <div className="relative w-fit [font-family:'Archivo-SemiBold',Helvetica] font-semibold text-[#000000] text-base tracking-[0.32px] leading-5 whitespace-nowrap">
@@ -101,15 +101,14 @@ export const DetailProductBahan = () => {
                                 </div>
                                 <img className="absolute w-[1440px] h-px top-12 left-0 object-cover" alt="Line" src="line-1.svg" />
                             </div>
-                            <div className="absolute top-[13px] left-[774px] [font-family:'Archivo-Medium',Helvetica] font-medium text-[#4e4e4e] text-base tracking-[0.32px] leading-5 whitespace-nowrap">
+                            {/* <div className="absolute top-[13px] left-[774px] [font-family:'Archivo-Medium',Helvetica] font-medium text-[#4e4e4e] text-base tracking-[0.32px] leading-5 whitespace-nowrap">
                                 Buah-buahan &amp; Sayuran
-                            </div>
+                            </div> */}
                         </div>
                     </div>
-                    <a href="/ChatbotSidecol">
-                  {/* <img className="chat" alt="chat" src="chat.svg" /> */}
+                    {/* <a href="/ChatbotSidecol">
                     <img className="absolute w-8 h-8 top-[37px] left-[1066px]" alt="Communication" src="chat.svg" />
-                    </a>
+                    </a> */}
                     <div className="absolute w-[272px] h-[104px] top-0 left-7">
                         <div className="relative h-[104px]">
                             <div className="w-[272px] h-[73px] top-[15px] bg-white absolute left-0" />

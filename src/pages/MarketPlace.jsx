@@ -27,9 +27,9 @@ export const MarketPlace = () => {
                     </Link>
 
                   </div>
-                  <a href="/ChatbotSidecol">
+                  {/* <a href="/ChatbotSidecol">
                   <img className="chat" alt="chat" src="chat.svg" />
-                  </a>
+                  </a> */}
                 </div>
                 <div className="icon-research-wrapper">
                   <CiSearch className="icon-research" color="#7E7E7E"/>

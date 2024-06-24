@@ -3,7 +3,7 @@ import "../styles/about.css";
 
 export const TentangKami = () => {
   return (
-    <div className="tentang-kami">
+  <div className="tentang-kami">
       <div className="div-2">
         <div className="rectangle-wrapper">
           <img className="rectangle-instance" src="public/rectangle1.svg" alt="Rectangle 1" />

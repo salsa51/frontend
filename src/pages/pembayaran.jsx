@@ -33,9 +33,9 @@ export const MenuPayment = () => {
                             <span className="text-[#5f5f5f] tracking-[0.05px]">Hi,</span>
                             <span className="text-black tracking-[0.05px]"> Parto</span>
                         </p>
-                        <Link to="/ChatbotSidecol">
+                        {/* <Link to="/ChatbotSidecol">
                         <img className="absolute w-8 h-8 top-[21px] left-[1064px]" alt="Communication" src="chat.svg" />
-                        </Link>
+                        </Link> */}
                     </div>
                     <img className="absolute w-[1440px] h-[419px] top-[225px] left-0.5" src="rectangle-100.svg" />
                     <img className="absolute w-[1444px] h-[261px] top-[90px] left-0" alt="Rectangle" src="rectangle-109.png" />

@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const NavLayout = ({ children }) => {
   return (
     <main className="mt-0"> {/* Tambahkan margin top di sini */}
-      <div className='w-full h-30 z-40 bg-emerald-600 px-10 font-archivo shadow-large-bottom'>
+      <div className='w-full h-30 z-40 bg-ffffff px-10 font-archivo shadow-large-bottom'>
         <nav className='flex gap-2 text-18 font-normal items-center w-full justify-between h-20'>
           <div className='flex items-center gap-4'>
             <Link to={"/"} className='flex items-center'>

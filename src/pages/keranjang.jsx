@@ -33,9 +33,9 @@ export const Keranjang = () => {
                             <span className="text-black tracking-[0.05px]"> Parto</span>
                         </p>
                     </div>
-                    <Link to="/ChatbotSidecol">
+                    {/* <Link to="/ChatbotSidecol">
                     <img className="absolute w-8 h-23 top-9 left-[1020px]" alt="Communication" src="chat.svg" />
-                    </Link>
+                    </Link> */}
                     <div className="w-[272px] left-[19px] absolute h-[104px] top-0">
                         <div className="relative h-[104px]">
                             <div className="absolute w-[272px] h-[73px] top-[15px] left-0 bg-white" />
