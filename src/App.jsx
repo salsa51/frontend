@@ -10,8 +10,8 @@ import MarketPlace from './pages/MarketPlace'
 import Keranjang from './pages/keranjang'
 import DetailProductBahan from './pages/DetailProductBahan'
 import Kontak from './pages/Kontak'
-import ChatbotSidecol from './pages/ChatbotSidecol'
-import Chatbot from './pages/Chatbot'
+// import ChatbotSidecol from './pages/ChatbotSidecol'
+// import Chatbot from './pages/Chatbot'
 import { useLocation } from 'react-router-dom';
 import MenuPayment from './pages/pembayaran'
 
@@ -36,8 +36,8 @@ const Main = () => {
          {/* Routes without NavLayout and Footer */}
         <Route path="/SignIn" element={<SignIn />} />
         <Route path="/SignUp" element={<SignUp />} />
-        <Route path="/ChatbotSidecol" element={<ChatbotSidecol />} />
-        <Route path="/Chatbot" element={<Chatbot />} />
+        {/* <Route path="/ChatbotSidecol" element={<ChatbotSidecol />} />
+        <Route path="/Chatbot" element={<Chatbot />} /> */}
 
 
 
