@@ -106,9 +106,7 @@ export const DetailProductBahan = () => {
                             </div> */}
                         </div>
                     </div>
-                    {/* <a href="/ChatbotSidecol">
-                    <img className="absolute w-8 h-8 top-[37px] left-[1066px]" alt="Communication" src="chat.svg" />
-                    </a> */}
+                    
                     <div className="absolute w-[272px] h-[104px] top-0 left-7">
                         <div className="relative h-[104px]">
                             <div className="w-[272px] h-[73px] top-[15px] bg-white absolute left-0" />
