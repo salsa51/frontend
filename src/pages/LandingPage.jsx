@@ -52,7 +52,7 @@ export const LandingPage = () => {
   return (
     <div className='font-archivo'>
       <div className='banner'>
-        <img src='/public/banner.svg' alt='banner' className='w-full' />
+        <img src='/public/banner.png' alt='banner' className='w-full' />
       </div>
       <div className='flex flex-col items-center gap-20 my-10'>
         <h1
