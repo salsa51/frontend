@@ -26,22 +26,22 @@ export const LandingPage = () => {
   const navigate = useNavigate();
   const tahap = [
     {
-      img: "/public/tahap1.svg",
+      img: "/public/thp1.png",
       tahap: "1",
       desc: "masuk ke halaman home dan klik tombol belanja sekarang ",
     },
     {
-      img: "/public/tahap2.svg",
+      img: "/public/thp2.png",
       tahap: "2",
       desc: "pilih salah satu produk dengan mengklik gambar produk",
     },
     {
-      img: "/public/tahap3.svg",
+      img: "/public/thp3.png",
       tahap: "3",
       desc: "klik icon beli jika ingin memesan dan klik tambah keranjang jika ingin menambah produk di bagian list",
     },
     {
-      img: "/public/tahap4.svg",
+      img: "/public/thp4.png",
       tahap: "4",
       desc: "setelah mengklik beli akan di arahkan pada form pembayaran",
     },
@@ -52,7 +52,7 @@ export const LandingPage = () => {
   return (
     <div className='font-archivo'>
       <div className='banner'>
-        <img src='/public/banner.png' alt='banner' className='w-full' />
+        <img src='/public/home.png' alt='banner' className='w-full' />
       </div>
       <div className='flex flex-col items-center gap-20 my-10'>
         <h1

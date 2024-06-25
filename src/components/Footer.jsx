@@ -37,21 +37,21 @@ const Footer = ({ children }) => {
             <div className='flex flex-col gap-2'>
               <h1 className='text-[20px] font-semibold'>Social Media</h1>
               <div className='flex items-center text-[16px]'>
-                <img src='/public/instagram.svg' alt='instagram' />
+                <img src='/public/ig.png' alt='instagram' />
                 <p className='opacity-60'>@digitalfoods</p>
               </div>
               <div className='flex items-center text-[16px]'>
-                <img src='/public/whatsapp.svg' alt='instagram' />
+                <img src='/public/wa.png' alt='instagram' />
                 <p className='opacity-60'>+62 8111 2222 3333</p>
               </div>
               <div className='flex items-center text-[16px]'>
-                <img src='/public/twitter.svg' alt='instagram' />
+                <img src='/public/tw.png' alt='instagram' />
                 <p className='opacity-60'>@digitalfoods</p>
               </div>
             </div>
             <div className='text-[16px] text-justify w-[337px]'>
               <img
-                src='/public/logo.svg'
+                src='/public/logo.png'
                 alt='logo'
                 className='w-[109px] h-[109px]'
               />

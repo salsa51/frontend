@@ -6,7 +6,7 @@ export const TentangKami = () => {
   <div className="tentang-kami">
       <div className="div-2">
         <div className="rectangle-wrapper">
-          <img className="rectangle-instance" src="public/rectangle1.svg" alt="Rectangle 1" />
+          <img className="rectangle-instance" src="public/tentangkami.png" alt="Rectangle 1" />
           <div className="text-content">
             <h1 className="hello-welcome">Hello, Welcome</h1>
             <div className="info-card">
