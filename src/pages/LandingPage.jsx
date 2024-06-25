@@ -28,22 +28,22 @@ export const LandingPage = () => {
     {
       img: "/public/tahap1.svg",
       tahap: "1",
-      desc: "Risus commodo id odio turpis pharetra elementum. Pulvinar porta porta feugiat ",
+      desc: "masuk ke halaman home dan klik tombol belanja sekarang ",
     },
     {
       img: "/public/tahap2.svg",
       tahap: "2",
-      desc: "Risus commodo id odio turpis pharetra elementum. Pulvinar porta porta feugiat ",
+      desc: "pilih salah satu produk dengan mengklik gambar produk",
     },
     {
       img: "/public/tahap3.svg",
       tahap: "3",
-      desc: "Risus commodo id odio turpis pharetra elementum. Pulvinar porta porta feugiat ",
+      desc: "klik icon beli jika ingin memesan dan klik tambah keranjang jika ingin menambah produk di bagian list",
     },
     {
       img: "/public/tahap4.svg",
       tahap: "4",
-      desc: "Risus commodo id odio turpis pharetra elementum. Pulvinar porta porta feugiat ",
+      desc: "setelah mengklik beli akan di arahkan pada form pembayaran",
     },
   ];
 

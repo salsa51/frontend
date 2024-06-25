@@ -16,8 +16,7 @@ export const TentangKami = () => {
                 kebutuhan resto anda
               </h1>
               <h2>
-                Digital Food Adalah pemasok yang melayani anda dengan sepenuh hati. Digital Food Adalah pemasok yang melayani anda dengan sepenuh hati. Digital Food Adalah pemasok yang melayani anda dengan sepenuh hati. Digital Food Adalah
-                pemasok yang melayani anda dengan sepenuh hati. Digital Food Adalah pemasok yang melayani anda dengan sepenuh hati.
+                Digital Food Adalah pemasok yang melayani anda dengan sepenuh hati yang dapat memesan beragam bahan baku, mulai dari daging hingga sayuran, dengan mudah melalui platform ini. Memberikan akses yang lebih luas dan praktis bagi restoran dalam memenuhi kebutuhan bahan baku, sehingga membantu memperkuat operasional dan menjaga ketersediaan stok yang stabil. 
               </h2>
             </div>
           </div>
@@ -71,7 +70,7 @@ export const TentangKami = () => {
         <div className="text-2">
           <div className="text-wrapper-4">Kenapa Digitalfood?</div>
           <div className="paragraph">
-            <p className="p">Risus commodo id odio turpis pharetra elementum. Pulvinar porta porta feugiat scelerisque in elit. Morbi rhoncus, tellus, eros consequat magna semper orci a tincidunt.</p>
+            <p className="p">menyediakan akses yang lebih luas terhadap berbagai jenis bahan baku dari berbagai pemasok. Ini memungkinkan restoran untuk menemukan produk-produk yang sesuai dengan kebutuhan mereka dengan lebih mudah.</p>
           </div>
         </div>
         <div className="card">

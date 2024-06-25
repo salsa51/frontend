@@ -91,10 +91,7 @@ export const MarketPlace = () => {
         
 
         <p className="text-wrapper-14">
-          Lorem ipsum dolor sit amet consectetur. Et id viverra non dolor. Sed adipiscing nulla et sed. In sit
-          adipiscing id congue eros posuere semper odio orci. Maecenas blandit id viverra varius tellus. Amet enim
-          turpis et sollicitudin vel bibendum pulvinar. Adipiscing pharetra libero in urna accumsan. Congue cursus nam
-          maecenas eu quam platea porttitor nisi.
+        Kami menyediakan berbagai macam sayur dan buah Segera berbelanja dan rasakan kenikmatan buah dan sayuran segar berkualitas terbaik dari kami! Pesan hari ini dan nikmati kesegaran produk kami yang langsung diantar ke depan pintu Anda. Kami berkomitmen untuk menjamin kepuasan Anda dengan produk berkualitas tinggi dan layanan pelanggan yang unggul.
         </p>
         <div className="overlap-2">
           <div className="frame-19">
